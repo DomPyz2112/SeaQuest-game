@@ -2,8 +2,6 @@
 
 Klasyczna gra zręcznościowa inspirowana retro tytułami, stworzona jako autorski projekt programistyczny. Celem projektu było praktyczne zastosowanie paradygmatów **programowania obiektowego (OOP)** oraz zarządzanie cyklem życia aplikacji.
 
-![Screenshot z gry](.venv\Gra_Python\Images\Game_view.png)
-
 ## 💻 Wykorzystane technologie
 * **Język programowania:** Python
 * **Biblioteka / Silnik:** Pygame
